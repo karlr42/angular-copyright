@@ -6,6 +6,11 @@ Takes the form
 
 Example plunkr: http://plnkr.co/edit/zAJrBd?p=preview
 
+### Installation
+
+Either just download the directive file, copy and paste its contents, or issue 
+`bower install karlr42/angular-copyright`
+
 ### Attributes:
  - **start** : the year the copyright begins. If not set, defaults to the current year
  - **localised-copyright** : a string for the word 'Copyright'.
