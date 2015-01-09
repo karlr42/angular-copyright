@@ -1,4 +1,4 @@
-An Angular directice for generating copyright notices(for footers, etc.).
+An Angular directive for generating copyright notices(for footers, etc.).
 
 
 Takes the form 
