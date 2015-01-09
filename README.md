@@ -13,4 +13,4 @@ Example plunkr: http://plnkr.co/edit/zAJrBd?p=preview
  - **norange** : if the start date is in the past, only show it, do not show "startYear-currentYear"
 
 
- Many thanks to http://briantford.com/blog/angular-bower for info on how to set this project up.
+Many thanks to http://briantford.com/blog/angular-bower for info on how to set this project up.
